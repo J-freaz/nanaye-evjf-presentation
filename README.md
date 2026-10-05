@@ -1,5 +1,5 @@
 # Nanayé - présentation EVJF
 
-Présentation de travail à valider par Nanayé. Ce dépôt contient uniquement la brochure commerciale et sa page de consultation.
+Offre EVJF : tarifs des maillots TTC, livraison en supplément, imprimés et ébauche validés avec Nanayé avant impression.
 
-Visuel fourni par Nanayé. Tous droits réservés sur les visuels et la marque. Les informations commerciales sont provisoires.
+Visuel fourni par Nanayé. Tous droits réservés sur les visuels et la marque.
